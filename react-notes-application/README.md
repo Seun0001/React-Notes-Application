@@ -1,0 +1,3 @@
+# React Notes Application
+
+The React Notes Application is a tool for managing notes, allowing users to create, save, and categorize them. The search bar offers real-time suggestions based on user input, making it easy to find specific notes quickly. Users can add new notes using the Note Editor and view them in the Note List, which updates dynamically based on the search term and selected folder. The Folder List helps organize notes into different categories. The app uses React for the user interface and styles it with CSS for a clean, responsive design, enhancing note management and retrieval efficiency.
